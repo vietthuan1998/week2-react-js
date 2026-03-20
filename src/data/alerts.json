@@ -1,0 +1,137 @@
+[
+  {
+    "id": "A001",
+    "type": "GIAO_THONG",
+    "title": "Tắc đường tại Ngã 6 Hùng Vương",
+    "area": "Phường Phú Hội",
+    "time": "2026-03-18 08:15",
+    "rainLevel": "Mưa nhẹ",
+    "read": true
+  },
+  {
+    "id": "A002",
+    "type": "CHAY_NO",
+    "title": "Cảnh báo cháy tại đường Lê Lợi",
+    "area": "Phường Vĩnh Ninh",
+    "time": "2026-03-18 09:40",
+    "rainLevel": "Mưa vừa",
+    "read": false
+  },
+  {
+    "id": "A003",
+    "type": "MUA_LON",
+    "title": "Cảnh báo mưa lớn tại Hồ Hoàn Kiếm",
+    "area": "Quận Hoàn Kiếm",
+    "time": "2026-03-19 07:20",
+    "rainLevel": "Mưa to",
+    "read": false
+  },
+  {
+    "id": "A004",
+    "type": "LUT_LUAN",
+    "title": "Ngập lụt khu vực Cầu Giấy",
+    "area": "Quận Cầu Giấy",
+    "time": "2026-03-19 10:05",
+    "rainLevel": "Mưa lớn",
+    "read": false
+  },
+  {
+    "id": "A005",
+    "type": "GIAO_THONG",
+    "title": "Va chạm xe máy tại ngã tư Mai Dịch",
+    "area": "Quận Cầu Giấy",
+    "time": "2026-03-19 11:00",
+    "rainLevel": "Mưa vừa",
+    "read": true
+  },
+  {
+    "id": "A006",
+    "type": "CHAY_NO",
+    "title": "Cháy nổ tại tầng 3 chung cư Linh Đàm",
+    "area": "Quận Hoàng Mai",
+    "time": "2026-03-19 11:30",
+    "rainLevel": "Mưa nhẹ",
+    "read": false
+  },
+  {
+    "id": "A007",
+    "type": "SUC_KHOE",
+    "title": "Cảnh báo chất lượng không khí ở Thanh Xuân",
+    "area": "Quận Thanh Xuân",
+    "time": "2026-03-19 12:15",
+    "rainLevel": "Không",
+    "read": false
+  },
+  {
+    "id": "A008",
+    "type": "GIAO_THONG",
+    "title": "Cố tình đi sai chiều tại đường Trần Duy Hưng",
+    "area": "Quận Cầu Giấy",
+    "time": "2026-03-19 12:45",
+    "rainLevel": "Mưa nhẹ",
+    "read": true
+  },
+  {
+    "id": "A009",
+    "type": "MUA_LON",
+    "title": "Cảnh báo sạt lở đất ở Hòa Bình",
+    "area": "Huyện Lương Sơn",
+    "time": "2026-03-19 13:10",
+    "rainLevel": "Mưa rất to",
+    "read": false
+  },
+  {
+    "id": "A010",
+    "type": "LUT_LUAN",
+    "title": "Ngập úng tại vùng trũng Yên Nghĩa",
+    "area": "Quận Hà Đông",
+    "time": "2026-03-19 13:45",
+    "rainLevel": "Mưa to",
+    "read": true
+  },
+  {
+    "id": "A011",
+    "type": "GIAO_THONG",
+    "title": "Tắc xe dài tại đường Võ Chí Công",
+    "area": "Quận Bắc Từ Liêm",
+    "time": "2026-03-19 14:20",
+    "rainLevel": "Mưa vừa",
+    "read": false
+  },
+  {
+    "id": "A012",
+    "type": "CHAY_NO",
+    "title": "Cảnh báo chập điện tại phố Trần Khát Chân",
+    "area": "Quận Hai Bà Trưng",
+    "time": "2026-03-19 15:05",
+    "rainLevel": "Mưa nhẹ",
+    "read": true
+  },
+  {
+    "id": "A013",
+    "type": "SUC_KHOE",
+    "title": "Nhiệt độ tăng nhanh ở khu vực Quảng An",
+    "area": "Quận Tây Hồ",
+    "time": "2026-03-19 15:40",
+    "rainLevel": "Nắng",
+    "read": false
+  },
+  {
+    "id": "A014",
+    "type": "GIAO_THONG",
+    "title": "Hỏng xe tải trên cầu Chương Dương",
+    "area": "Quận Long Biên",
+    "time": "2026-03-19 16:10",
+    "rainLevel": "Mưa nhẹ",
+    "read": true
+  },
+  {
+    "id": "A015",
+    "type": "MUA_LON",
+    "title": "Cảnh báo lũ quét ở Huyện Ba Vì",
+    "area": "Huyện Ba Vì",
+    "time": "2026-03-19 16:55",
+    "rainLevel": "Mưa rất to",
+    "read": true
+  }
+]
